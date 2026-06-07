@@ -16,20 +16,6 @@ O projeto simula o monitoramento de uma missão espacial experimental dividida e
 
 Pré-requisito: Python 3.10 ou superior. Sem dependências externas.
 
-```bash
-python mission_control.py
-```
-
----
-
-## Estrutura do projeto
-
-```
-mission-control-ai/
-├── README.md
-└── mission_control.py
-```
-
 ---
 
 ## Estrutura dos dados

@@ -129,9 +129,8 @@ Pontuação máxima por ciclo: **10 pontos** (5 áreas × 2 pontos).
 
 | Nome | RM |
 |------|----|
-| Nome Completo 1 | RM000000 |
-| Nome Completo 2 | RM000000 |
-| Nome Completo 3 | RM000000 |
+| Aneliza Rondina Bonafé - RM: 572977 |
+| Rafaella Ferreira de Moraes - RM: 571030 |
 
 ---
 

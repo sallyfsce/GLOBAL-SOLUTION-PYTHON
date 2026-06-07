@@ -8,7 +8,7 @@ Sistema de monitoramento de missão espacial desenvolvido em Python.
 
 ## Descrição
 
-O projeto simula o monitoramento de uma missão espacial experimental dividida em ciclos. A cada ciclo, o sistema analisa cinco áreas operacionais, calcula o risco, gera alertas automáticos e ao final exibe um relatório completo da missão.
+O projeto simula o monitoramento de uma missão espacial experimental dividida em ciclos. A cada ciclo, o sistema analisa cinco áreas operacionais, calcula o risco, gera alertas automáticos e no final exibe um relatório completo da missão.
 
 ---
 

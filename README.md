@@ -122,4 +122,4 @@ Pontuação máxima por ciclo: **10 pontos** (5 áreas × 2 pontos).
 
 ## Vídeo
 
-[Assistir no YouTube](https://youtube.com/SEU_LINK_AQUI)
+[Assistir no YouTube](https://youtu.be/tDXibs4hxKY)
